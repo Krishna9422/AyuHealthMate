@@ -1,0 +1,9 @@
+flask
+joblib
+scikit-learn
+pandas
+numpy
+streamlit
+scipy
+fuzzywuzzy[speedup]
+fuzzywuzzy python-Levenshtein
