@@ -1,9 +1,6 @@
-flask
-joblib
-scikit-learn
-pandas
-numpy
-streamlit
-scipy
-fuzzywuzzy[speedup]
-fuzzywuzzy python-Levenshtein
+streamlit==1.32.2
+scikit-learn==1.3.2
+pandas==2.2.2
+joblib==1.4.2
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.21.1
