@@ -79,7 +79,7 @@ disease\_prediction/
 
 ## 👤 Author
 
-* Your Name ([@your-github](https://github.com/your-github))
+* Your Name ([@Krishna9422]([https://github.com/Krishna9422/AyuHealthMate]))
 
 ---
 
